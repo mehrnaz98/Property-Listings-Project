@@ -10,10 +10,6 @@ This is a simple TypeScript project that displays a list of properties and user 
 ✔ Interactive UI: A button that dynamically loads the top two reviews.
 ✔ Footer Information: Show current location, time, and temperature in the footer.
 
-## Live Demo
-
-You can view the live version of this project here: (View on Netlify)
-
 ## Project Acknowledgment
 
 This project was developed as part of the Scrimba Learn Typescript course taught by Ania Kubow.
